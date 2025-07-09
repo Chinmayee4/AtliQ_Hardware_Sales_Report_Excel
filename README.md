@@ -1,8 +1,8 @@
 # Sales Report & Finance Report for AtliQ Hardware
 ## Sales Report:
   ### Project objective:
-        *  Create a customer performance report
-        *  Conduct a comprehensive comparison between market performance vs sales targets
+        *  Create 
+        *  Conduct a comprehensive comparison between 
         
 * **Purpose of sales analytics**: Empower businesses to monitor and evaluate their sales activities and performance.
  
