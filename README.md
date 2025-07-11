@@ -1,10 +1,5 @@
 # Sales Report & Finance Report for AtliQ Hardware
-## Sales Report:  
-  ### Project objective:
-      1.Create a [Customer Performance Report](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/raw/main/Customer%20Performance%20Report.pdf)
-        
-* **Purpose of sales analytics**: Empower businesses to monitor and evaluate their sales activities and performance.
- 
-* **Importance of analyzing sales data**: Identify sales patterns and track key performance indicators (KPIs).
- 
-* **Role of reports**: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+## Overview
+In collaboration with AtliQ Hardware's Sales and Finance teams, this project aimed to create detailed and actionable Excel reports based on diverse business data. By utilizing mock-ups and multiple data tables—including monthly sales records, net sales targets, and essential dimension tables—these reports transformed raw data into actionable insights for informed decision-making.
+
+The project helped identify optimal seasonal offers, refine sales agreements, and strategize customer-specific targets. It demonstrated the value of meticulous ETL operations and precise data modeling, empowering AtliQ Hardware to make data-driven business decisions.
