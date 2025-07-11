@@ -1,5 +1,2 @@
 # Sales Report & Finance Report for AtliQ Hardware
-## Overview
-In collaboration with AtliQ Hardware's Sales and Finance teams, this project aimed to create detailed and actionable Excel reports based on diverse business data. By utilizing mock-ups and multiple data tables—including monthly sales records, net sales targets, and essential dimension tables—these reports transformed raw data into actionable insights for informed decision-making.
-
-The project helped identify optimal seasonal offers, refine sales agreements, and strategize customer-specific targets. It demonstrated the value of meticulous ETL operations and precise data modeling, empowering AtliQ Hardware to make data-driven business decisions.
+https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/362569c3adcf6fe2c7e4a978a51217dcc94a7870/Customer%20Performance%20Report.pdf
