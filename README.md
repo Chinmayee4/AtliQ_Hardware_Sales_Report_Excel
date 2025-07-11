@@ -2,7 +2,7 @@
 ## Sales Report :
 ### Project Objectives:
 
-📌 [Customer Performance Report (PDF)](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/Customer%20Performance%20Report.pdf)
+📌 Create a [Customer Performance Report ](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/Customer%20Performance%20Report.pdf)
 
 📊 Conduct a comprehensive comparison between [Market Performance vs Sales Targets](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/Market%20Performance%20vs%20Target%20Report.pdf)
 
@@ -15,15 +15,15 @@
 ## 💰 Finance Report
  ### Project Objectives:
 
-📅 Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/02f760d87c38ea62b61f9ccb7de20e35756e2017/P%26L%20Months.pdf)
+📅 Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/718d5e7bea8ab7c8f16df63aadd1bc7fcb2579bd/P%26L%20Statement%20by%20Months.pdf)
 
 🌍 Create Profit and Loss (P&L) reports by [Markets](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Markets.pdf)
 
 * **Purpose of Financial Analytics:** Evaluate financial performance,support data-driven decision-making,facilitate transparent communication with stakeholders.
 
-* **Importance of Analyzing Finance Data:** Benchmark against industry peers and previous performance periods,provide a foundation for budgeting and forecasting.
+* **Importance of Analyzing Finance Data:** Benchmark against industry peers and previous performance periods Foundation for budgeting and forecasting.
 
-* **Role of Reports:** Align financial planning with strategic goals,instill confidence in the organization’s financial outlook.
+* **Role of Reports:** Align financial planning with strategic goals instill confidence in the organization’s financial outlook.
 
 ## 🛠️ Technical Skills Gained
 * ETL methodology (Extract, Transform, Load)
