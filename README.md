@@ -1,73 +1,48 @@
 # Sales Report & Finance Report for AtliQ Hardware
 ## Sales Report :
-🧾 Sales Report
-Project Objectives:
+### Project Objectives:
 
-📌 Customer Performance Report (PDF)
+📌 [Customer Performance Report (PDF)](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/Customer%20Performance%20Report.pdf)
 
-📊 Conduct a comprehensive comparison between Market Performance vs Sales Targets
+📊 Conduct a comprehensive comparison between [Market Performance vs Sales Targets](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/Market%20Performance%20vs%20Target%20Report.pdf)
 
-Purpose of Sales Analytics:
+* **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-Empower businesses to monitor and evaluate their sales activities and performance.
+* **Importance of Analyzing Sales Data:** Identify sales patterns and track key performance indicators (KPIs).
 
-Importance of Analyzing Sales Data:
+* **Role of Reports:** Determine effective customer discounts,facilitate negotiations with consumers,identify potential business expansion opportunities in promising markets.
 
-Identify sales patterns and track key performance indicators (KPIs).
+## 💰 Finance Report
+ ### Project Objectives:
 
-Role of Reports:
+📅 Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Months.pdf)
 
-Determine effective customer discounts.
+🌍 Create Profit and Loss (P&L) reports by [Markets](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Markets.pdf)
 
-Facilitate negotiations with consumers.
+* **Purpose of Financial Analytics:** Evaluate financial performance,support data-driven decision-making,facilitate transparent communication with stakeholders.
 
-Identify potential business expansion opportunities in promising markets.
+* **Importance of Analyzing Finance Data:** Benchmark against industry peers and previous performance periods,provide a foundation for budgeting and forecasting.
 
-💰 Finance Report
-Project Objectives:
+* **Role of Reports:** Align financial planning with strategic goals,instill confidence in the organization’s financial outlook.
 
-📅 Create Profit and Loss (P&L) reports by Fiscal Year & Months
+## 🛠️ Technical Skills Gained
+* ETL methodology (Extract, Transform, Load)
 
-🌍 Create Profit and Loss (P&L) reports by Markets
+* Creating a date table using Power Query
 
-Purpose of Financial Analytics:
+* Deriving fiscal months and quarters
 
-Evaluate financial performance.
+* Building data model relationships using Power Pivot
 
-Support data-driven decision-making.
+* Incorporating supplementary data into existing models
 
-Facilitate transparent communication with stakeholders.
+* Creating calculated columns with DAX
 
-Importance of Analyzing Finance Data:
+## 🤝 Soft Skills Gained
+* Improved understanding of Sales & Finance reporting
 
-Benchmark against industry peers and previous performance periods.
+* Designing user-centric dashboards and reports
 
-Provide a foundation for budgeting and forecasting.
+* Optimizing report performance and generation speed
 
-Role of Reports:
-
-Align financial planning with strategic goals.
-
-Instill confidence in the organization’s financial outlook.
-
-🛠️ Technical Skills Gained
-ETL methodology (Extract, Transform, Load)
-
-Creating a date table using Power Query
-
-Deriving fiscal months and quarters
-
-Building data model relationships using Power Pivot
-
-Incorporating supplementary data into existing models
-
-Creating calculated columns with DAX
-
-🤝 Soft Skills Gained
-Improved understanding of Sales & Finance reporting
-
-Designing user-centric dashboards and reports
-
-Optimizing report performance and generation speed
-
-Developing a structured approach to report planning and development
+* Developing a structured approach to report planning and development
