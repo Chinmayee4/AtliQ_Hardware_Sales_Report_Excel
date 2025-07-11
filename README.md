@@ -1,7 +1,7 @@
 # Sales Report & Finance Report for AtliQ Hardware
 ## Sales Report:  
   ### Project objective:
-      1.Create a (https://Customer Performance Report.pdf)
+      1.Create a [Customer Performance Report](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/raw/main/Customer%20Performance%20Report.pdf)
         
 * **Purpose of sales analytics**: Empower businesses to monitor and evaluate their sales activities and performance.
  
