@@ -15,7 +15,7 @@
 ## 💰 Finance Report
  ### Project Objectives:
 
-📅 Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Months.pdf)
+📅 Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/02f760d87c38ea62b61f9ccb7de20e35756e2017/P%26L%20Months.pdf)
 
 🌍 Create Profit and Loss (P&L) reports by [Markets](https://github.com/Chinmayee4/AtliQ_Hardware_Sales_Report_Excel/blob/7a0754184753aa34b81fa22fb0bad2056fc70a15/P%26L%20Statement%20by%20Markets.pdf)
 
